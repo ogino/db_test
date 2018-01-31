@@ -1,0 +1,9 @@
+# TEST on development.
+database:
+  host: '127.0.0.1'
+  port: 3306
+  schema: 'database'
+  user: 'root'
+  password: 'password'
+  ssl: true
+  loadbalance: false
